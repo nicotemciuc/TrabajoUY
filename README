@@ -16,6 +16,9 @@ Este proyecto, desarrollado como parte del Taller de Programación, es una aplic
 
 - **Estación de Trabajo Administrativa:** Se ha desarrollado una estación de trabajo en Swing que actúa como servidor central. Los administradores pueden acceder a información detallada sobre todas las ofertas, usuarios y otros objetos relevantes.
 
+- **Compra de Paquetes para publicar multiples ofertas laborales a un menor precio**: Las empresas tienen la oportunidad de comprar paquetes que permiten la publicacion de multiples ofertas a un menor coste.
+
+
 ## Estructura del Proyecto
 
 El código sigue una estructura organizada que refleja la arquitectura MVC. La separación de la lógica de negocio (Modelo), la presentación (Vista) y el control (Controlador) mejora la mantenibilidad y escalabilidad del sistema.
@@ -26,7 +29,7 @@ El código sigue una estructura organizada que refleja la arquitectura MVC. La s
 
 - **WebServices y JSP:** Se han utilizado servicios web y JSP para la implementación de la interfaz de usuario web y la comunicación eficiente entre el servidor central y el servidor web.
 
-- **Interfaz Web con CSS, JS y Bootstrap:** Las páginas web se han creado utilizando tecnologías web como CSS, JS y Bootstrap para ofrecer una experiencia de usuario moderna y receptiva.
+- **Interfaz Web con CSS, JS, Bootstrap y JQuery:** Las páginas web se han creado utilizando tecnologías web como CSS, JS y Bootstrap para ofrecer una experiencia de usuario moderna y receptiva. También para las busquedas se ha aplicado JQuery/AJAX
 
 - **Swing:** La estación de trabajo administrativa se ha construido utilizando la biblioteca Swing, proporcionando una interfaz gráfica de usuario intuitiva para los administradores.
 
